@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "chefPicture": "https://example.com/chef1.jpg",
+      "chefPicture": "https://cdn1.vectorstock.com/i/1000x1000/68/30/chief-cook-in-cap-symbol-or-logo-restaurant-food-vector-32506830.jpg",
       "chefName": "John Smith",
       "yearsOfExperience": 10,
       "numRecipes": 50,
@@ -9,7 +9,7 @@
     },
     {
       "id": 2,
-      "chefPicture": "https://example.com/chef2.jpg",
+      "chefPicture": "https://media.gettyimages.com/id/686525318/vector/cook.jpg?s=612x612&w=gi&k=20&c=Zh9qHSfW5kjcK8wKKq1LU4pB0PNpImXdOKmJEOXH1yc=",
       "chefName": "Jane Doe",
       "yearsOfExperience": 5,
       "numRecipes": 20,
@@ -17,7 +17,7 @@
     },
     {
       "id": 3,
-      "chefPicture": "https://example.com/chef3.jpg",
+      "chefPicture": "https://www.shutterstock.com/image-vector/smiling-chief-cook-vector-logo-260nw-1043947735.jpg",
       "chefName": "Bob Johnson",
       "yearsOfExperience": 15,
       "numRecipes": 100,
@@ -25,7 +25,7 @@
     },
     {
       "id": 4,
-      "chefPicture": "https://example.com/chef4.jpg",
+      "chefPicture": "https://www.shutterstock.com/image-vector/smiling-chief-cook-vector-logo-260nw-625752911.jpg",
       "chefName": "Sara Lee",
       "yearsOfExperience": 8,
       "numRecipes": 30,
@@ -33,7 +33,7 @@
     },
     {
       "id": 5,
-      "chefPicture": "https://example.com/chef5.jpg",
+      "chefPicture":"https://media.gettyimages.com/id/686525318/vector/cook.jpg?s=612x612&w=gi&k=20&c=Zh9qHSfW5kjcK8wKKq1LU4pB0PNpImXdOKmJEOXH1yc=",
       "chefName": "David Kim",
       "yearsOfExperience": 20,
       "numRecipes": 200,
@@ -41,11 +41,9 @@
     },
     {
       "id": 6,
-      "chefPicture": "https://example.com/chef6.jpg",
+      "chefPicture": "https://cdn1.vectorstock.com/i/1000x1000/68/30/chief-cook-in-cap-symbol-or-logo-restaurant-food-vector-32506830.jpg",
       "chefName": "Amy Chen",
       "yearsOfExperience": 12,
       "numRecipes": 75,
-      "likes": 1500
-    }
-  ]
-  
+      "likes":1500 }
+]
